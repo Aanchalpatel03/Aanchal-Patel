@@ -1,8 +1,11 @@
 # Aanchal-Patel
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aanchal+Patel+%F0%9F%91%8B;B.Tech+AIADS+%7C+Samrat+Ashok+Technological+Institute;Data+Analytics+%E2%80%A2+ML+%E2%80%A2+AI+App+Dev;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aanchal%20Patel&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Analytics%20%E2%80%A2%20ML%20%E2%80%A2%20AI%20App%20Dev%20%E2%80%A2%20Prompt%20Engineering&descAlignY=58&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI-Powered+Tools+%F0%9F%A4%96;Crafting+Smarter+Prompts+%F0%9F%A7%A0;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aanchalpatel03&label=Profile%20Views&color=a855f7&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/aanchalpatel03">

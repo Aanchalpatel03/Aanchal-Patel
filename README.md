@@ -1,4 +1,4 @@
-# Aanchal-Patel
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aanchal%20Patel&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Analytics%20%E2%80%A2%20ML%20%E2%80%A2%20AI%20App%20Dev%20%E2%80%A2%20Prompt%20Engineering&descAlignY=58&descSize=16" />
